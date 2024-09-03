@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/priyankab082/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyankab082/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyankab082/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
