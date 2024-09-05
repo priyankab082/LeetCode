@@ -7,8 +7,17 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyankab082/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/priyankab082/LeetCode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyankab082/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/priyankab082/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/priyankab082/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
