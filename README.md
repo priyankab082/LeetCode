@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyankab082/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyankab082/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/priyankab082/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/priyankab082/LeetCode/tree/master/0048-rotate-image) |
@@ -13,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/priyankab082/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyankab082/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/priyankab082/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Math
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyankab082/LeetCode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/priyankab082/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
